@@ -1,6 +1,6 @@
 name: Test2
 favicon: null
-layout_spectrum: 0.76964
+layout_spectrum: 0.8
 cta:
   domain: null
   bucket: null
@@ -24,7 +24,4 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: follow
-    item: null
-    url: null
+purpose: []
